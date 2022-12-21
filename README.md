@@ -1,1 +1,1 @@
-# HyperBot
+# HyperSonic
